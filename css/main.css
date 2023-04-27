@@ -597,7 +597,7 @@ transform: translateY(-230px);
 
   color: #bdbdbd;
 
-  background-image: url("img/search-normal.svg");
+  background-image: url("../img/search-normal.svg");
   background-repeat: no-repeat;
   background-position: right;
 }
