@@ -41,7 +41,7 @@ a {
 }
 
 .header-menu-arrow-down {
-  background: url("/../img/arrow-down.svg") no-repeat;
+  background: url("img/arrow-down.svg") no-repeat;
   background-position: 100%;
   padding-right: 24px;
 
