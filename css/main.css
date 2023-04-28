@@ -91,6 +91,8 @@ html {
 }
 
 .Title-and-subtitle-p {
+  padding-left: 135px;
+  padding-right: 135px;
   font-weight: 400;
   font-size: 20px;
   line-height: 160%;
